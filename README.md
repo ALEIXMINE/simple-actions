@@ -23,6 +23,6 @@ Pulsar teclas, combinaciones, click especificos, mover raton i escribir.
 ## Info del Autor
 
 - Youtube - [ALEIXMINE17](https://www.youtube.com/channel/UC4VQTpVqMDXUAaqQxI217XQ)
-- Discord - [ALEIXMINE17#1167]
+- Discord - ALEIXMINE17#1167
 
 ---
